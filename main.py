@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 def main():
     driver = TorBrowserDriver("./tor-browser_en-US/")
-    username = "Shakybeats"
+    username = "USERNAME"
     url = f"http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/u/{username}"
     driver.get(url)
     driver.implicitly_wait(10000)
