@@ -18,8 +18,7 @@ def main():
     user_header = driver.find_element_by_xpath("/html/body/div/div[2]/div[1]")
     sleep(10)
     print("\n\n\nSCREENSHOT\n\n\n\n")
-    user_header.screenshot(
-        f"/home/ian/Storage/Files/Programs/DarkWebSherlock/{username}-dread.png")
+    user_header.screenshot(f"../../{username}-dread.png")
 
 
 if __name__ == '__main__':
