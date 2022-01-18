@@ -175,7 +175,7 @@ class DarkWebSherlock():
 if __name__ == '__main__':
     program = DarkWebSherlock()
     url = "https://raidforums.com"
-    username = "Mrbom"
+    username = "test"
 
     program.raidforums(url, username)
 
