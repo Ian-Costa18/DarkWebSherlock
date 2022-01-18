@@ -1,3 +1,6 @@
+# This project was created for the Hack@CEWIT 2020 hackathon
+It is not pretty, feature-rich, or usable outside of specific circumstances. I apologise for any mistakes or spaghetti code, this project was built in less than 48 hours and does not have the same polish as projects I would normally code.
+
 # DarkWebSherlock
 
 Create Virutal Enviroment
